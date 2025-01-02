@@ -1,10 +1,10 @@
 
-# Java Patika Projects
+# Patika Java Projects
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Platform](https://img.shields.io/badge/platform-JVM-blue?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/cihat-kose/java-patika-projects?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/cihat-kose/java-patika-projects?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/cihat-kose/patika-java-projects?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/cihat-kose/patika-java-projects?style=for-the-badge)
 
 
 ## 💡 Introduction
@@ -29,7 +29,7 @@ This repository contains a collection of Java projects designed to help learners
 ## 📥 Installation
 To get started with this project, clone the repository to your local machine:
 ```bash
-git clone https://github.com/cihat-kose/java-patika-projects.git
+git clone https://github.com/cihat-kose/patika-java-projects.git
 ```
 
 ## ⚙️ Usage
@@ -99,7 +99,7 @@ No specific configuration is required. Ensure your IDE is set up to compile and 
 1. Open IntelliJ IDEA.
 2. Go to `File > New > Project from Version Control...`.
 3. Select `Git` from the list.
-4. Enter the repository URL: `https://github.com/cihat-kose/java-patika-projects.git`.
+4. Enter the repository URL: `https://github.com/cihat-kose/patika-java-projects.git`.
 5. Click `Clone`.
 6. Wait for IntelliJ to clone the repository and set up the project.
 7. Navigate to the specific project you want to run.
